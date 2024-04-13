@@ -1,7 +1,3 @@
-# test-repo
+# This is my first repo
 
-this is a test repository
-
-This is a new edit from my local computer
-
-This is a second commit
+I wanna pull this code
